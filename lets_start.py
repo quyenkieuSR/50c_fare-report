@@ -4,15 +4,15 @@ import os
 import numpy as np
 # Import gtfs files
 # Path to the directory containing GTFS files
-gtfs_path = r'C:\Users\qzkieu\OneDrive - TMR\Desktop\50c PT trial report\gtfs_12_03_2024'
+gtfs_path = r'C:\Users\kieuk\Downloads\50c PT trial report\50c PT trial report_no git atm\gtfs_12_03_2024'
 calendar_df = pd.read_csv(os.path.join(gtfs_path, 'calendar.txt'))
 routes_df = pd.read_csv(os.path.join(gtfs_path, 'routes.txt'))
 stops_times_df = pd.read_csv(os.path.join(gtfs_path, 'stop_times.txt'))
 stops_df = pd.read_csv(os.path.join(gtfs_path, 'stops.txt'))
 trips_df = pd.read_csv(os.path.join(gtfs_path, 'trips.txt'))
-distance_to_Roma = pd.read_csv(r'C:\Users\qzkieu\OneDrive - TMR\Desktop\50c PT trial report\list_of_rail_station_&_distance_to_Roma.csv')
+distance_to_Roma = pd.read_csv(r'C:\Users\kieuk\Downloads\50c PT trial report\50c PT trial report_no git atm\list_of_rail_station_&_distance_to_Roma.csv')
 # Import tickets_data
-ticket_path = r'C:\Users\qzkieu\OneDrive - TMR\Desktop\50c PT trial report'
+ticket_path = r'C:\Users\kieuk\Downloads\50c PT trial report\50c PT trial report_no git atm'
 tickets_data_df = pd.read_csv(os.path.join(ticket_path,'snowflake_ticket_12_03_2024.csv'))
 
 # Enter input_date format yyyymmdd
@@ -128,7 +128,7 @@ trips_table_df.loc[trips_table_df['route_id'].str[:2] == 'BR', 'Service_line'] =
 trips_table_df.loc[trips_table_df['route_id'].str[2:4] == 'BR', 'Trip_direction'] = 'Inbound'
 trips_table_df.loc[trips_table_df['route_id'].str[2:4] == 'BR', 'Service_line'] = trips_table_df['route_id'].str[:2]
 print(trips_table_df['Service_line'].tolist())
-#                non'BR' in route_codes
+#                Update non'BR' in route_codes
 def update_trip_directions_and_lines(trips_table_df, stops_times_filtered, distance_to_Roma):
     # Find non-BR trip_ids
     no_br_trip_ids = trips_table_df[~trips_table_df['route_id'].str[:4].str.contains('BR')]['trip_id']
