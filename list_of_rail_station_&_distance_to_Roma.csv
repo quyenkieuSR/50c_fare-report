@@ -1,0 +1,157 @@
+Station,Distance from Central,Distance from Central (kilometers),North/South of Roma,Distance to Roma
+Central,0.0 km,0,North,0.8
+Roma Street,0.8 km,0.8,South,0
+Fortitude Valley,1.3 km,1.3,North,2.1
+Tennyson,10.4 km,10.4,South,9.6
+Morningside,10.5 km,10.5,South,9.7
+Moorooka,10.6 km,10.6,South,9.8
+Sherwood,10.7 km,10.7,South,9.9
+Mitchelton,10.9 km,10.9,North,11.7
+Woombye,100.7 km,100.7,North,101.5
+Nambour,104.8 km,104.8,North,105.6
+Virginia,11.2 km,11.2,North,12
+Bindha,11.4 km,11.4,North,12.2
+Corinda,11.6 km,11.6,South,10.8
+Rocklea,11.6 km,11.6,South,10.8
+Yandina,112.7 km,112.7,North,113.5
+Oxford Park,12.0 km,12,North,12.8
+Banyo,12.1 km,12.1,North,12.9
+Sunshine,12.4 km,12.4,North,13.2
+Cannon Hill,12.6 km,12.6,South,11.8
+Grovely,12.7 km,12.7,North,13.5
+Eumundi,122.5 km,122.5,North,123.3
+Salisbury,13.0 km,13,South,12.2
+Nudgee,13.1 km,13.1,North,13.9
+Oxley,13.3 km,13.3,South,12.5
+Geebung,13.4 km,13.4,North,14.2
+Keperra,13.5 km,13.5,North,14.3
+Cooroy,130.9 km,130.9,North,131.7
+Pomona,139.9 km,139.9,North,140.7
+Murarrie,14.3 km,14.3,South,13.5
+International Airport,14.4 km,14.4,North,15.2
+Zillmere,14.9 km,14.9,North,15.7
+Cooran,145.5 km,145.5,North,146.3
+Coopers Plains,15.2 km,15.2,South,14.4
+Domestic Airport,15.9 km,15.9,North,16.7
+Traveston,150.3 km,150.3,North,151.1
+Boondall,16.0 km,16,North,16.8
+Darra,16.0 km,16,South,15.2
+Ferny Grove,16.1 km,16.1,North,16.9
+Carseldine,16.6 km,16.6,North,17.4
+Banoon,16.7 km,16.7,South,15.9
+North Boondall,17.2 km,17.2,North,18
+Hemmant,17.4 km,17.4,South,16.6
+Sunnybank,17.6 km,17.6,South,16.8
+Gympie North,172.2 km,172.2,North,173
+Deagon,18.4 km,18.4,North,19.2
+Altandi,18.6 km,18.6,South,17.8
+Lindum,19.2 km,19.2,South,18.4
+Sandgate,19.4 km,19.4,North,20.2
+Milton,2.3 km,2.3,South,1.5
+South Brisbane,2.6 km,2.6,South,1.8
+Bowen Hills,2.7 km,2.7,North,3.5
+Bald Hills,20.0 km,20,North,20.8
+Richlands,20.0 km,20,South,19.2
+Runcorn,20.0 km,20,South,19.2
+Wacol,20.0 km,20,South,19.2
+Shorncliffe,20.7 km,20.7,North,21.5
+Wynnum North,20.8 km,20.8,North,21.6
+Fruitgrove,21.2 km,21.2,South,20.4
+Gailes,21.6 km,21.6,South,20.8
+Wynnum,21.7 km,21.7,North,22.5
+Strathpine,22.4 km,22.4,North,23.2
+Wynnum Central,22.4 km,22.4,South,21.6
+Kuraby,22.5 km,22.5,South,21.7
+Goodna,23.5 km,23.5,South,22.7
+Bray Park,23.8 km,23.8,North,24.6
+Manly,24.1 km,24.1,South,23.3
+Lawnton,25.8 km,25.8,North,26.6
+Trinder Park,25.8 km,25.8,South,25
+Lota,25.9 km,25.9,South,25.1
+Redbank,26.8 km,26.8,South,26
+Woodridge,26.8 km,26.8,South,26
+Petrie,27.4 km,27.4,North,28.2
+Springfield,27.8 km,27.8,South,27
+Thorneside,27.8 km,27.8,South,27
+Riverview,29.2 km,29.2,South,28.4
+Kingston,29.5 km,29.5,South,28.7
+Kallangur,29.9 km,29.9,North,30.7
+Exhibition,3.4 km,3.4,North,4.2
+Auchenflower,3.5 km,3.5,South,2.7
+South Bank,3.5 km,3.5,South,2.7
+,3.6 km,3.6,North,4.4
+Birkdale,30.6 km,30.6,South,29.8
+Springfield Central,30.6 km,30.6,South,29.8
+Dinmore,30.8 km,30.8,South,30
+Murrumba Downs,31.1 km,31.1,North,31.9
+Dakabin,32.1 km,32.1,North,32.9
+Ebbw Vale,32.2 km,32.2,South,31.4
+Loganlea,32.2 km,32.2,South,31.4
+Mango Hill,32.9 km,32.9,North,33.7
+Wellington Point,32.9 km,32.9,South,32.1
+Bundamba,34.1 km,34.1,South,33.3
+Mango Hill East,34.6 km,34.6,North,35.4
+Bethania,35.2 km,35.2,South,34.4
+Booval,35.5 km,35.5,South,34.7
+Narangba,35.6 km,35.6,North,36.4
+Ormiston,35.6 km,35.6,South,34.8
+Rothwell,36.2 km,36.2,North,37
+Edens Landing,36.9 km,36.9,South,36.1
+East Ipswich,37.0 km,37,South,36.2
+Cleveland,37.3 km,37.3,South,36.5
+Ipswich,38.6 km,38.6,South,37.8
+Holmview,39.1 km,39.1,South,38.3
+Albion,4.5 km,4.5,North,5.3
+Toowong,4.5 km,4.5,South,3.7
+Windsor,4.5 km,4.5,North,5.3
+Beenleigh,40.1 km,40.1,South,39.3
+Kippa-Ring,40.1 km,40.1,North,40.9
+Thomas Street,40.1 km,40.1,South,39.3
+Burpengary,40.4 km,40.4,North,41.2
+Wulkuraka,41.6 km,41.6,South,40.8
+Karrabin,43.9 km,43.9,South,43.1
+Morayfield,46.4 km,46.4,North,47.2
+Walloon,48.5 km,48.5,South,47.7
+Caboolture,49.6 km,49.6,North,50.4
+Park Road,5.1 km,5.1,South,4.3
+Wilston,5.5 km,5.5,North,6.3
+Wooloowin,5.6 km,5.6,North,6.4
+Dutton Park,5.9 km,5.9,South,5.1
+Ormeau,52.7 km,52.7,South,51.9
+Thagoona,52.7 km,52.7,South,51.9
+Coomera,56.5 km,56.5,South,55.7
+Rosewood,57.0 km,57,South,56.2
+Elimbah,58.6 km,58.6,North,59.4
+Taringa,6.0 km,6,South,5.2
+Buranda,6.2 km,6.2,South,5.4
+Eagle Junction,6.5 km,6.5,North,7.3
+Newmarket,6.5 km,6.5,North,7.3
+Beerburrum,64.6 km,64.6,North,65.4
+Helensvale,68.2 km,68.2,South,67.4
+Fairfield,7.1 km,7.1,South,6.3
+Clayfield,7.4 km,7.4,North,8.2
+Indooroopilly,7.4 km,7.4,South,6.6
+Toombul,7.4 km,7.4,North,8.2
+Coorparoo,7.9 km,7.9,South,7.1
+Glass House Mountains,71.8 km,71.8,North,72.6
+Nerang,75.9 km,75.9,South,75.1
+Beerwah,76.9 km,76.9,North,77.7
+Alderley,8.0 km,8,North,8.8
+Hendra,8.0 km,8,North,8.8
+Chelmer,8.5 km,8.5,South,7.7
+Yeronga,8.5 km,8.5,South,7.7
+Nundah,8.7 km,8.7,North,9.5
+Ascot,8.9 km,8.9,North,9.7
+Enoggera,8.9 km,8.9,North,9.7
+Landsborough,82.5 km,82.5,North,83.3
+Robina,85.3 km,85.3,South,84.5
+Mooloolah,87.5 km,87.5,North,88.3
+Varsity Lakes,89.4 km,89.4,South,88.6
+Norman Park,9.1 km,9.1,South,8.3
+Yeerongpilly,9.3 km,9.3,South,8.5
+Graceville,9.5 km,9.5,South,8.7
+Gaythorne,9.6 km,9.6,North,10.4
+Doomben,9.9 km,9.9,North,10.7
+Northgate,9.9 km,9.9,North,10.7
+Eudlo,92.7 km,92.7,North,93.5
+Palmwoods,97.3 km,97.3,North,98.1
